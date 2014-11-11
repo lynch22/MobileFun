@@ -1,0 +1,5 @@
+Listing of Gear2 Tizen apps:
+hypgear - Very simple Tizen app to display a simple hypnosis wheel gif that will 
+	close on wrist-up event. The html content could be replaced with more interesting 
+	content that may need a quick close gesture.
+
